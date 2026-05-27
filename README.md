@@ -14,5 +14,22 @@ Observa-se, no âmbito das instituições de ensino técnico e superior, uma dem
 O objetivo deste projeto é desenvolver uma plataforma web capaz de unificar os interesses de ambas as partes **(acadêmicos e organizações concedentes)**, oferecendo aos alunos uma **visualização direta das vagas de estágio disponíveis**  e proporcionar às empresas **uma plataforma de cadastro unificada e versátil às suas necessidades**.
 
 ### 📋 Requisitos Funcionais
+- **RF-01:** permitir o cadastro e autenticação de alunos interessados em vagas de estágio.
+- **RF-02:** permitir o cadastro e autenticação de empresas ou organizações concedentes.
+- **RF-03:** permitir que empresas cadastrem, editem e removam vagas de estágio.
+- **RF-04:** permitir que alunos visualizem a lista de vagas disponíveis.
+- **RF-05:** permitir a consulta de detalhes de uma vaga, incluindo área, descrição, requisitos, modalidade, carga horária e informações da empresa.
+- **RF-06:** permitir a filtragem de vagas por área, modalidade, localidade ou outros critérios relevantes.
+- **RF-07:** permitir que alunos manifestem interesse ou se candidatem a uma vaga de estágio.
+- **RF-08:** permitir que empresas acompanhem os candidatos vinculados às suas vagas.
 
 ### ⚙️ Requisitos Não Funcionais
+- **RNF-01:** a plataforma deve possuir interface simples, responsiva e adequada para uso em computadores e dispositivos móveis.
+- **RNF-02:** o sistema deve proteger dados pessoais de alunos e empresas, considerando boas práticas de segurança e privacidade.
+- **RNF-03:** o sistema deve apresentar tempo de resposta adequado para consultas e listagem de vagas.
+- **RNF-04:** a documentação do projeto deve ser mantida de forma organizada para facilitar o trabalho em equipe.
+- **RNF-05:** o código deve seguir padrões de organização, legibilidade e manutenção definidos pela equipe.
+- **RNF-06:** a plataforma deve permitir evolução futura para novos perfis, filtros e fluxos de candidatura.
+
+## 📁 Documentação
+- [Documento de Requisitos de Software](docs/requisitos-software.md)
