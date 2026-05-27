@@ -33,3 +33,5 @@ O objetivo deste projeto é desenvolver uma plataforma web capaz de unificar os 
 
 ## 📁 Documentação
 - [Documento de Requisitos de Software](docs/requisitos-software.md)
+- [Documento de Visão](docs/documento-visao.md)
+- [User Stories e Critérios de Aceitação](docs/user-stories.md)

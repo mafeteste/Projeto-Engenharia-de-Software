@@ -75,6 +75,7 @@ A estrutura acima é uma sugestão inicial e pode ser ajustada conforme as tecno
 - Uma vaga cadastrada apresenta informações suficientes para o aluno entender a oportunidade.
 - O README aponta para a documentação de requisitos.
 - A documentação mantém requisitos funcionais e não funcionais identificados por código.
+- As histórias de usuário possuem critérios de aceitação básicos.
 
 ## 11. Pendências para Refinamento
 - Definir tecnologias de frontend, backend e banco de dados.
