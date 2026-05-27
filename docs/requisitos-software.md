@@ -49,6 +49,7 @@ Nesta versão inicial, o documento não pretende descrever todos os fluxos, regr
 - **RNF-06:** o código-fonte deve ser organizado de forma clara, favorecendo manutenção e evolução.
 - **RNF-07:** a documentação deve ser mantida em uma pasta própria do repositório.
 - **RNF-08:** o sistema deve ser projetado para permitir inclusão futura de novos filtros, perfis e regras de candidatura.
+- **RFN-09:** A plataforma deve estar disponível para acesso na maior parte do tempo, garantindo que alunos e empresas possam utilizá-la sem interrupções frequentes.
 
 ## 8. Regras de Negócio Iniciais
 - **RN-01:** somente empresas cadastradas devem poder publicar vagas.
