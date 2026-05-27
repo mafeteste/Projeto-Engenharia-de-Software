@@ -29,6 +29,7 @@ A solução será uma aplicação web com funcionalidades iniciais para cadastro
 - Filtros básicos para busca de oportunidades.
 - Manifestação de interesse ou candidatura de alunos.
 - Visualização de candidatos interessados por empresa.
+- Salvamento de vagas para consulta posterior pelos alunos.
 
 ## 7. Benefícios Esperados
 - Centralizar a divulgação de vagas de estágio.
