@@ -60,6 +60,10 @@ Nesta versão inicial, o documento não pretende descrever todos os fluxos, regr
 - **RN-04:** cada empresa deve gerenciar apenas as vagas cadastradas por ela.
 - **RN-05:** alunos não devem poder se candidatar mais de uma vez para a mesma vaga.
 - **RN-06:** vagas com candidatura externa devem conter obrigatoriamente um link ou instrução clara para inscrição.
+- **RN-07:** uma vaga encerrada ou inativada pela empresa não deve mais aparecer na listagem de oportunidades disponíveis para os alunos.
+- **RN-08:** o perfil e as informações de contato do aluno só devem ficar acessíveis para a empresa após a formalização da candidatura na respectiva vaga.
+- **RN-09:** a alteração dos dados de uma vaga já publicada não deve invalidar ou cancelar as candidaturas que já foram realizadas anteriormente para aquela oportunidade.
+- **RN-10:** o histórico de candidaturas e de vagas encerradas deve ser preservado para consulta das partes envolvidas, não sendo apagado definitivamente do sistema.
 
 ## 9. Organização Recomendada do Repositório
 ```text
